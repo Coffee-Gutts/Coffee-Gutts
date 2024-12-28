@@ -7,7 +7,7 @@
 <p>
   Hi 👋, I'm Gustavo! A programming lover from Brazil.
 
-  - 🌱 I’m currently studying Java.
+  - 🌱 I’m currently studying Js.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with programming.
 </p>
