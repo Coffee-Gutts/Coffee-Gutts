@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 17 years old, i live in Brazil, and I'm doing my second year of systems development at etec. I have a knowledge of English too. 
+  - 💬 I am 18 years old, i live in Brazil, and I'm doing my second year of systems development at etec. I have a knowledge of English too. 
     
   - ⚡ I enjoy reading, whether it's a good book or manga, as well as watching movies, playing volleyball and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
