@@ -4,8 +4,6 @@ Seja bem vindo(a) ao meu portfólio!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre Mim
 
-<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpkNGNudzRiZTNjcXc4dXpoeWg1cDUzMXl3MzRnbWFrdWNoZGExdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOKrXLf9N5g76/giphy.gif" />
-
 ``` javascript
 const Gu = {
  name: "Gustavo Abramo",
@@ -29,6 +27,7 @@ const Gu = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
