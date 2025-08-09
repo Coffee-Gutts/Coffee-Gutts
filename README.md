@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Seja bem vindo(a) ao meu portfólio!
+Seja bem vindo(a)!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre Mim
 
